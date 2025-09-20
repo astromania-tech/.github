@@ -104,9 +104,9 @@ We work as an extension of your team, providing ongoing support and strategic gu
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Visit%20Us-blue?style=for-the-badge&logo=globe)](https://astromania.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/astromania-tech)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:hello@astromania.tech)
+[![Visit AstroMANIA Website](https://img.shields.io/badge/Website-Visit%20Us-blue?style=for-the-badge&logo=globe)](https://astromania.tech)
+[![Connect with AstroMANIA on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/astromania-tech)
+[![Contact AstroMANIA via Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:hello@astromania.tech)
 
 **Ready to transform your enterprise with cutting-edge technology?**
 Let's build the future together.
