@@ -105,5 +105,5 @@ Let's build the future together.
 ---
 
 <div align="center">
-<sub>© 2024 AstroMANIA. Innovating the future, one solution at a time.</sub>
+<sub>© 2024–present AstroMANIA. Innovating the future, one solution at a time.</sub>
 </div>
