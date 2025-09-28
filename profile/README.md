@@ -1,4 +1,4 @@
-# 🚀 AstroMANIA - Tech Innovation Beyond Boundaries
+# 🛡️ AstroMANIA - Tech Innovation Beyond Boundaries
 
 <div align="center">
 
